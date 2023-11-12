@@ -2,6 +2,7 @@ import './App.scss';
 import Hero from './components/Hero/Hero';
 import Navbar from './components/Navbar/Navbar';
 import Parallax from './components/Parallax/Parallax';
+import Services from './components/Services/Services';
 function App() {
   return (
     <div className="App">
@@ -12,7 +13,9 @@ function App() {
             <section>
               <Parallax type="services"></Parallax>
             </section>
-            <section id='Services'>services</section>
+            <section id='Services'>
+              <Services></Services>
+            </section>
             <section>
               <Parallax type="portfolio"></Parallax>
             </section>
