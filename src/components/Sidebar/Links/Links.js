@@ -32,6 +32,7 @@ export default function Links() {
   ]
   return (
     <motion.div className='links' variants={variants}>
+      <a href='https://drive.google.com/file/d/16YOJahXlxOSgt-0KjKiW37Fq74tU9nmI/view?usp=drive_link'>Resume</a>
       {
         items.map((item)=>(
           <motion.a href={`#${item}`} key={item} variants={itemVariants} whileHover={{scale:1.2}} whileTap={{scale:0.95}}>{item}</motion.a>
