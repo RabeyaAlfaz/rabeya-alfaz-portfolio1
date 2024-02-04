@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.badc0b15.css",
+    "main.js": "/static/js/main.fb14b27f.js",
+    "static/js/787.c7a7f919.chunk.js": "/static/js/787.c7a7f919.chunk.js",
+    "static/media/mountains.png": "/static/media/mountains.6bceb498a0e1e0a70b47.png",
+    "static/media/stars.png": "/static/media/stars.a979f6ed7ad00c7ea0b2.png",
+    "static/media/planets.png": "/static/media/planets.827213af57ae82d007cd.png",
+    "index.html": "/index.html",
+    "main.badc0b15.css.map": "/static/css/main.badc0b15.css.map",
+    "main.fb14b27f.js.map": "/static/js/main.fb14b27f.js.map",
+    "787.c7a7f919.chunk.js.map": "/static/js/787.c7a7f919.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.badc0b15.css",
+    "static/js/main.fb14b27f.js"
+  ]
+}
